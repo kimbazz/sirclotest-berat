@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+<br />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-controller="Home" asp-action="Create" method="post">
+            <div class="form-group">
+                <label>Tanggal</label>
+                <input type="text" class="form-control" placeholder="Masukan Tanggal" name="Tanggal">
+            </div>
+            <div class="form-group">
+                <label>Berat Max</label>
+                <input type="text" class="form-control" placeholder="Masukan Berat Max" name="BeratMax">
+            </div>
+            <div class="form-group">
+                <label>Berat Min</label>
+                <input type="text" class="form-control" placeholder="Masukan Berat Min" name="BeratMin">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>    
+</div>

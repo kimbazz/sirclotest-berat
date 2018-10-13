@@ -1,0 +1,57 @@
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.deps.json
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.runtimeconfig.json
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.runtimeconfig.dev.json
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.dll
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.csprojAssemblyReference.cache
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.csproj.CoreCompileInputs.cache
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorAssemblyInfo.cache
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorAssemblyInfo.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.AssemblyInfoInputs.cache
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.AssemblyInfo.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.TagHelpers.input.cache
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.TagHelpers.output.cache
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorCoreGenerate.cache
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Reza Fiansyah P\Source\Repos\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorTargetAssemblyInfo.cs
+C:\Sirclo Test\berat\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.deps.json
+C:\Sirclo Test\berat\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.runtimeconfig.json
+C:\Sirclo Test\berat\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.runtimeconfig.dev.json
+C:\Sirclo Test\berat\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.dll
+C:\Sirclo Test\berat\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.pdb
+C:\Sirclo Test\berat\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.Views.dll
+C:\Sirclo Test\berat\Berat.Web\bin\Debug\netcoreapp2.1\Berat.Web.Views.pdb
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.csprojAssemblyReference.cache
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.csproj.CoreCompileInputs.cache
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorAssemblyInfo.cache
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorAssemblyInfo.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.AssemblyInfoInputs.cache
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.AssemblyInfo.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.TagHelpers.input.cache
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.TagHelpers.output.cache
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorCoreGenerate.cache
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorTargetAssemblyInfo.cache
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.RazorTargetAssemblyInfo.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.Views.pdb
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.dll
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.pdb
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Berat.Web.csproj.CopyComplete
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detail.g.cshtml.cs
+C:\Sirclo Test\berat\Berat.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
